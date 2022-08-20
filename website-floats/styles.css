@@ -24,10 +24,6 @@
   margin-left: 10px;
 }
 
-.header-right {
-  float: right;
-}
-
 .signup {
   background-color: deepskyblue;
   float: right;
@@ -51,7 +47,6 @@
 }
 
 .page {
-  clear: both;
   width: 1000px;
   margin: 0 auto;
 }
